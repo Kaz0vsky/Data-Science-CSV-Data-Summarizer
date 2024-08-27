@@ -1,6 +1,6 @@
 # Data Science - Smart CSV Data Summarizer 
 
-Description: This program reads a CSV file and provides not only basic statistics
+Description: This tool reads a CSV file and provides not only basic statistics
 such as mean, median, mode, and standard deviation for each numerical column but
 also advanced insights. The features include handling missing data, outlier detection,
 data visualization, correlation analysis, and exporting the summary to a report file.
