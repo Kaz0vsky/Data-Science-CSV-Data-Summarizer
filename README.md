@@ -1,4 +1,4 @@
-# Data Science - Smart CSV Data Summarizer 
+# Data Science - CSV Data Summarizer 
 
 Description: This tool reads a CSV file and provides not only basic statistics
 such as mean, median, mode, and standard deviation for each numerical column but
