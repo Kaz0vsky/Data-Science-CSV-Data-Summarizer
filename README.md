@@ -5,10 +5,12 @@ such as mean, median, mode, and standard deviation for each numerical column but
 also advanced insights. The features include handling missing data, outlier detection,
 data visualization, correlation analysis, and exporting the summary to a report file.
 
-Requrements:
+Requirements:
+
 pip3 install pandas numpy matplotlib seaborn scipy
 
 Usage:
+
 python3 sumcsvdata.py <path_to_csv_file>
 
 Test :
